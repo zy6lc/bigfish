@@ -2,4 +2,4 @@
 
 随便取的项目名
 
-博客: https://zy6lc.com/fullconns/
+详细说明见博客: https://zy6lc.com/fullconns/

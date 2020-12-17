@@ -12,7 +12,7 @@ import numpy as np
 # http://yann.lecun.com/exdb/mnist/
 
 
-def load(data_folder, height=784, width=1):
+def load(data_folder=None, height=28, width=28):
     files = [
         'train-labels-idx1-ubyte.gz', 'train-images-idx3-ubyte.gz',
         't10k-labels-idx1-ubyte.gz', 't10k-images-idx3-ubyte.gz'
